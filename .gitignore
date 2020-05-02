@@ -8,4 +8,6 @@
 out
 gen
 *.class
-target
+target/
+logs/
+/target/

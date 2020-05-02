@@ -87,12 +87,6 @@
                 <artifactId>mysql-connector-java</artifactId>
                 <version>${mysql-connector.version}</version>
             </dependency>
-
-            <!--<dependency>
-                <groupId>cn.edu.cqvie</groupId>
-                <artifactId>ssm-common</artifactId>
-                <version>${common.version}</version>
-            </dependency>-->
         </dependencies>
     </dependencyManagement>
 
